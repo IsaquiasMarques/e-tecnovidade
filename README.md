@@ -4,4 +4,4 @@ Uma nova empresa que actua no ramo tecnológico. Confiou-me a responsabilidade d
 
 ## Servidor de Visualização
 
-Link para a visualização do Projecto `https://doces-e-salgados-da-graca.web.app`
+Link para a visualização do Projecto `https://e-tecnovidade.web.app`
